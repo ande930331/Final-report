@@ -17,3 +17,4 @@ else:
     print(year ,"年是平年")
 ```
 # 實利:回傳閏年
+![](returnTrue.jpg)
