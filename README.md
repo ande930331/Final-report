@@ -12,7 +12,7 @@ def is_leap_year(year):
     else:
         return False
 ```
-公元年份為4的倍數但非100的倍數或公元年份為400的倍數回傳```True``` 否則回傳```False```
+### 公元年份為4的倍數但非100的倍數或公元年份為400的倍數回傳```True``` 否則回傳```False```
 ```
 year = int(input("請輸入西元年份: "))
 if is_leap_year(year):
