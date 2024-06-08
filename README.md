@@ -16,5 +16,9 @@ if is_leap_year(year):
 else:
     print(year ,"年是平年")
 ```
-# 實利:回傳閏年
+# 實例:回傳閏年
 ![](returnTrue.jpg)
+# 實例:回傳平年
+![](returnFalse.jpg)
+# 實作介面(使用VS code)
+[實作](實作jpg)
