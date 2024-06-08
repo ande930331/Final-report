@@ -9,8 +9,8 @@ def is_leap_year(year):
     else:
         return False
 ```
-### 輸入西元年份
-### 輸出閏年或平年
+|輸入西元年份|
+|輸出閏年或平年|
 ```
 year = int(input("請輸入西元年份: "))
 if is_leap_year(year):
