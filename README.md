@@ -21,4 +21,4 @@ else:
 # 實例:回傳平年
 ![](returnFalse.jpg)
 # 實作介面(使用VS code)
-[實作](實作.jpg)
+![實作](實作.jpg)
