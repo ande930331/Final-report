@@ -9,9 +9,6 @@ def is_leap_year(year):
     else:
         return False
 ```
-# 輸入格式
-*西元年份*
-
 ```
 year = int(input("請輸入西元年份: "))
 if is_leap_year(year):
@@ -19,6 +16,4 @@ if is_leap_year(year):
 else:
     print(year ,"年是平年")
 ```
-# 輸出格式
-*閏年或平年*
 # 實利:回傳閏年
